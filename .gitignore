@@ -1,0 +1,5 @@
+# Build directorys (e.g. for html and ipynb)
+build_*
+
+# Pyenv python version
+.python-version
